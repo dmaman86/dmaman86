@@ -1,4 +1,27 @@
+<h1> Hi, I'm David Alejandro Maman!</h1>
+<p><em>Computer Science student at Hadassah College, Jerusalem - Israel </br>
+Practical Engineer graduate at ORT College, Jerusalem - Israel</p>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaman86)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmaman86&hide=contribs,prs) 
-| :------------ |:---------------:| 
+<h2>A little more about me...</h2>  
+
+```javascript
+const dmaman86 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "C/C++"],
+    askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            java: ["spring"]
+        },
+        databases: ["MongoDB", "MySQL", "sqlite", "NoSQL", "PostgreSQL"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+};
+```
 
