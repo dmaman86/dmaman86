@@ -5,7 +5,7 @@ Practical Engineer graduate at ORT College, Jerusalem - Israel</p>
 <h2>A little more about me...</h2>  
 
 ```javascript
-const dmaman86 = {
+const david = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "C/C++"],
     askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
