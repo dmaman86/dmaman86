@@ -27,12 +27,14 @@ const david = {
 
 <h2>Examples of project</h2>
 
-Forecast Weather - A simple application to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
+- Forecast Weather - A simple application to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
+[App](https://dmaman86.github.io/react-forecast-weather/) demo.
 
  ![forecast home day](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-per-day.png) | ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-days.png)
  :---: | :---:
  
- Nasa Mars - Browse NASA Mars images and save your preferred ones, using JavaScript, HTML, Boostrap, SQLite, Node.js and Express.
+- Nasa Mars - Browse NASA Mars images and save your preferred ones, using JavaScript, HTML, Boostrap, SQLite, Node.js and Express.
+ [Nasa](https://nasa-mars-images.herokuapp.com/login) demo.
 
 ![Login Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/login-page.png) | ![Register Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/register-page.png) 
 :---: | :---: 
