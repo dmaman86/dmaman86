@@ -34,7 +34,10 @@ const david = {
  
 - [Nasa Mars](https://github.com/dmaman86/nasa_mars) - Browse NASA Mars images and save your preferred ones, using JavaScript, HTML, Boostrap, SQLite, Node.js and Express.
 
-![Login Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/login-page.png) | ![Register Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/register-page.png) 
+![Login Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/login-page.png) | ![Home Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/home-page.png)
 :---: | :---: 
-![Set Password Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/set-password-page.png) | ![Home Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/home-page.png)
 ![Results Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/results.png) | ![Carousel Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/carousel.png)
+
+- [Super Mario Kart](https://github.com/dmaman86/mario_kart_game_sfml) - This project combines technologies we learned during the object-oriented programming course (C++ and SFML) as well as technologies we learned independently (JavaScript and Firebase).
+
+[![Video Youtube](https://img.youtube.com/vi/sARGm4s1JAM/0.jpg)](https://www.youtube.com/watch?v=sARGm4s1JAM)
