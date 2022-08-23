@@ -27,7 +27,7 @@ const david = {
 
 <h2>Examples of project</h2>
 
-- [Forecast Weather](https://github.com/dmaman86/react-forecast-weather) - A simple application to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
+- [Forecast Weather](https://github.com/dmaman86/react-forecast-weather) - SPA website to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
 
  ![forecast home day](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-per-day.png) | ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-days.png)
  :---: | :---:
