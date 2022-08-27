@@ -27,6 +27,11 @@ const david = {
 
 <h2>Examples of project</h2>
 
+- [Store Book](https://github.com/dmaman86/store-book-spring) - Java Spring website to manager and sell books.
+
+ ![admin home](/../../../../dmaman86/store-book-spring/blob/main/src/main/resources/screenshots/admin-manager-books.png) | ![user login shopping cart](/../../../../dmaman86/store-book-spring/blob/main/src/main/resources/screenshots/user-login-shopping-cart.png)
+ :---: | :---:
+
 - [Forecast Weather](https://github.com/dmaman86/react-forecast-weather) - SPA website to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
 
  ![forecast home day](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-per-day.png) | ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/images/screenshots/forecast-screen-days.png)
