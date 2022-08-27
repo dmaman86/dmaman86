@@ -16,8 +16,8 @@ const david = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
-            java: ["spring"]
+            js: ["Node.js", "Express"],
+            java: ["Spring"]
         },
         databases: ["MongoDB", "MySQL", "sqlite", "NoSQL", "PostgreSQL"]
     },
