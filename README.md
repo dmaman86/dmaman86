@@ -1,6 +1,8 @@
 <h1> Hi, I'm David Alejandro Maman!</h1>
-<p><em>Computer Science student at Hadassah College, Jerusalem - Israel </br>
-Practical Engineer graduate at ORT College, Jerusalem - Israel</p>
+<p>
+    <em>Computer Science graduate from Hadassah College, Jerusalem - Israel </em></br>
+    <em>Practical Engineer graduate from ORT College, Jerusalem - Israel </em>
+</p>
 
 <h2>A little more about me...</h2>  
 
@@ -13,15 +15,20 @@ const david = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Angular", "React"],
-            css: ["bootstrap"]
+            css: ["bootstrap", "mui-material"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            java: ["Spring"]
+            java: ["Spring Boot", "Spring Cloud", "Eureka", "API Gateway"]
         },
-        databases: ["MongoDB", "MySQL", "sqlite", "NoSQL", "PostgreSQL"]
+        databases: ["MySQL", "SQLite", "NoSQL", "PostgreSQL", "MongoDB"],
+        messaging: ["Kafka"],
+        machineLearning: ["Deep Learning", "Tensorflow Keras"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Microservices Architecture",
+                    "Serverless Architecture",
+                    "Progressive web applications",
+                    "Single page applications"],
 };
 ```
 
