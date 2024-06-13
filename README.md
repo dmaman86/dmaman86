@@ -1,10 +1,8 @@
-<h1> Hi, I'm David Alejandro Maman!</h1>
-<p>
-    <em>Computer Science graduate from Hadassah College, Jerusalem - Israel </em></br>
-    <em>Practical Engineer graduate from ORT College, Jerusalem - Israel </em>
-</p>
+# Hi, I'm David Alejandro Maman!
+* Computer Science graduate from Hadassah College, Jerusalem - Israel
+* Practical Engineer graduate from ORT College, Jerusalem - Israel
 
-<h2>A little more about me...</h2>  
+## A little more about me...
 
 ```javascript
 const david = {
@@ -12,7 +10,6 @@ const david = {
     code: ["Javascript", "Typescript", "Python", "Java", "C/C++"],
     askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
             js: ["Angular", "React"],
             css: ["bootstrap", "mui-material"]
@@ -32,7 +29,9 @@ const david = {
 };
 ```
 
-<h2>Examples of project</h2>
+## Examples of project
+
+- [Courier-App](https://github.com/dmaman86/courier-app) - A full-stack application developed with Spring Boot Cloud, Eureka, API Gateway, Kafka for the backend, and React with TypeScript for the frontend. This project includes features for user management, branch management, and order processing, catering to roles like admin, courier, and client.
 
 - [Store Book](https://github.com/dmaman86/store-book-spring) - Java Spring website to manager and sell books.
 
