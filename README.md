@@ -11,7 +11,7 @@ const david = {
     askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React"],
+            js: ["React", "Angular"],
             css: ["bootstrap", "mui-material"]
         },
         backEnd: {
@@ -29,7 +29,7 @@ const david = {
 };
 ```
 
-## Examples of project
+## Some of my Projects
 
 - [Courier-App](https://github.com/dmaman86/courier-app) - A full-stack application developed with Spring Boot Cloud, Eureka, API Gateway, Kafka for the backend, and React with TypeScript for the frontend. This project includes features for user management, branch management, and order processing, catering to roles like admin, courier, and client.
 
@@ -51,4 +51,8 @@ const david = {
 
 - [Super Mario Kart](https://github.com/dmaman86/mario_kart_game_sfml) - This project combines technologies we learned during the object-oriented programming course (C++ and SFML) as well as technologies we learned independently (JavaScript and Firebase).
 
-[![Video Youtube](https://img.youtube.com/vi/sARGm4s1JAM/0.jpg)](https://www.youtube.com/watch?v=sARGm4s1JAM)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=sARGm4s1JAM">
+    <img src="https://img.youtube.com/vi/sARGm4s1JAM/0.jpg" alt="Video Youtube">
+  </a>
+</div>
