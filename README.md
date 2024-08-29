@@ -40,7 +40,7 @@ const david = {
 
 - [Forecast Weather](https://github.com/dmaman86/react-forecast-weather) - SPA website to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
 
- ![forecast home day](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/forecast-screen-per-day.png) | ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/forecast-screen-days.png)
+ ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/forecast-screen-display.png) | ![forecast form](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/locations-screen-insert.png)
  :---: | :---:
  
 - [Nasa Mars](https://github.com/dmaman86/nasa_mars) - Browse NASA Mars images and save your preferred ones, using JavaScript, HTML, Boostrap, SQLite, Node.js and Express.
