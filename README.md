@@ -8,24 +8,31 @@
 const david = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "C/C++"],
-    askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
+    askMeAbout: ["web development", "microservices", "clean architecture", "algorithms", "system design"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
-            css: ["bootstrap", "mui-material"]
+            js: ["React", "Angular", "Vite"],
+            css: ["Bootstrap", "MUI Material"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
             java: ["Spring Boot", "Spring Cloud", "Eureka", "API Gateway"]
         },
-        databases: ["MySQL", "SQLite", "NoSQL", "PostgreSQL", "MongoDB"],
+        databases: {
+            relational: ["MySQl", "PostgreSQL"],
+            noSQL: ["MongoDB"]
+        },
         messaging: ["Kafka"],
-        machineLearning: ["Deep Learning", "Tensorflow Keras"]
+        machineLearning: {
+            tools: ["Deep Learning", "TensorFlow", "Keras"],
+            applications: ["Handwriting Recognotion", "Image Processing"]
+        }
     },
     architecture: ["Microservices Architecture",
                     "Serverless Architecture",
                     "Progressive web applications",
                     "Single page applications"],
+    softSkills: ["Problem-solving", "Teamwork", "Quick learning", "Adaptability"]
 };
 ```
 
