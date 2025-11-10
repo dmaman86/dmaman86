@@ -1,5 +1,5 @@
 # Hi, I'm David Alejandro Maman!
-* Computer Science graduate from Hadassah College, Jerusalem - Israel
+* Computer Science graduate from Jerusalem Multidisciplinary College (formerly Hadassah Academic College), Jerusalem - Israel
 * Practical Engineer graduate from ORT College, Jerusalem - Israel
 
 ## A little more about me...
@@ -19,44 +19,73 @@ const david = {
             java: ["Spring Boot", "Spring Cloud", "Eureka", "API Gateway"]
         },
         databases: {
-            relational: ["MySQl", "PostgreSQL"],
+            relational: ["MySQL", "PostgreSQL"],
             noSQL: ["MongoDB"]
         },
         messaging: ["Kafka"],
         machineLearning: {
-            tools: ["Deep Learning", "TensorFlow", "Keras"],
-            applications: ["Handwriting Recognotion", "Image Processing"]
+            frameworks: ["Tensorflow/Keras"],
+            libraries: [
+                "NumPy",
+                "Pandas",
+                "SciPy",
+                "Matplotlib",
+                "Seaborn",
+                "OpenCV"
+            ],
+            environments: ["Google Colab"],
+            fields: ["Deep Learning", "Computer Vision"],
+            applications: ["Handwriting Recognition", "Image Processing"]
         }
     },
     architecture: ["Microservices Architecture",
                     "Serverless Architecture",
                     "Progressive web applications",
                     "Single page applications"],
-    softSkills: ["Problem-solving", "Teamwork", "Quick learning", "Adaptability"]
+    softSkills: ["Problem-solving", "Teamwork", "Quick learning", "Adaptability"],
+    contact: {
+        email: "dmaman86@gmail.com",
+        linkedIn: "linkedin.com/in/david-alejandro-maman-994976121"
+    }
 };
 ```
 
-## Some of my Projects
+## Selected Projects
 
-- [Courier-App](https://github.com/dmaman86/courier-app) - A full-stack application developed with Spring Boot Cloud, Eureka, API Gateway, Kafka for the backend, and React with TypeScript for the frontend. This project includes features for user management, branch management, and order processing, catering to roles like admin, courier, and client.
+- [Courier-App](https://github.com/dmaman86/courier-app) - A full-stack application built with Spring Boot Cloud, Eureka, API Gateway, and Kafka on the backend, and React with TypeScript for the frontend. It includes features for user, branch, and order management, supporting different roles such as admin, courier, and client.
 
-- [Store Book](https://github.com/dmaman86/store-book-spring) - Java Spring website to manager and sell books.
+![admin](/../../../../dmaman86/courier-app/blob/main/images/admin-dashboard.png) | ![admin users](/../../../../dmaman86/courier-app/blob/main/images/admin-create-user.png)
+:---: | :---:
+![client](/../../../../dmaman86/courier-app/blob/main/images/client-dashboard.png) | ![courier](/../../../../dmaman86/courier-app/blob/main/images/courier-dashboard.png)
 
- ![admin home](/../../../../dmaman86/store-book-spring/blob/main/src/main/resources/screenshots/admin-manager-books.png) | ![user login shopping cart](/../../../../dmaman86/store-book-spring/blob/main/src/main/resources/screenshots/user-login-shopping-cart.png)
- :---: | :---:
+---
 
-- [Forecast Weather](https://github.com/dmaman86/react-forecast-weather) - SPA website to display 7-day weather forecast using the [7timer API](https://www.7timer.info), React and Boostrap.
+- [Shiftly](https://github.com/dmaman86/shiftly) - A modern and intuitive work-hour tracking system built with React, TypeScript, and MUI.  
+  It calculates salaries according to Israeli labor laws, handling complex wage structures including overtime, night shifts, holidays, and special bonuses.
 
- ![forecast home next days](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/forecast-screen-display.png) | ![forecast form](/../../../../dmaman86/react-forecast-weather/blob/main/src/assets/screenshots/locations-screen-insert.png)
- :---: | :---:
- 
-- [Nasa Mars](https://github.com/dmaman86/nasa_mars) - Browse NASA Mars images and save your preferred ones, using JavaScript, HTML, Boostrap, SQLite, Node.js and Express.
+  ![breakdown summary 1](/../../../../dmaman86/shiftly/blob/main/public/breakdown-summary-1.png) | ![breakdown summary 2](/../../../../dmaman86/shiftly/blob/main/public/breakdown-summary-2.png)
+   :---: | :---:
 
-![Login Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/login-page.png) | ![Home Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/home-page.png)
-:---: | :---: 
-![Results Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/results.png) | ![Carousel Image](/../../../../dmaman86/nasa_mars/blob/master/public/screenshots/carousel.png)
+---
 
-- [Super Mario Kart](https://github.com/dmaman86/mario_kart_game_sfml) - This project combines technologies we learned during the object-oriented programming course (C++ and SFML) as well as technologies we learned independently (JavaScript and Firebase).
+- [Author-Handwriting-Recog](https://github.com/dmaman86/author-handwriting-recog) - A deep learning project focused on offline writer identification using handwriting samples.  
+  Built with Python, TensorFlow, and Keras, it includes a custom DataGenerator, Siamese/embedding models, and image preprocessing pipelines for training and evaluation.
+
+    | **Evaluation Method** | **Seen Writers – Accuracy** | **Unseen Writers – Accuracy** |
+    |------------------------------------|--------------------------------------|--------------------------------------|
+    | Patch-Level (Euclidean to centroids) | 49.42% | 24.22% |
+    | Majority Vote (by image) | 90.20% | 59.61% |
+    | Softmax Sum (aggregated centroid scores) | **91.18%** | **67.00%** |
+
+---
+
+- [Algo-Solutions](https://github.com/dmaman86/algo-solutions) - A growing collection of algorithmic problem solutions implemented in **C++**, **JavaScript**, and **Python**, including test cases for validation.  
+  Features clean implementations, performance optimizations, and reusable data structures to improve problem-solving skills.  
+  Designed as an ongoing repository to strengthen analytical thinking and mastery of algorithmic patterns.
+
+---
+
+- [Super Mario Kart](https://github.com/dmaman86/mario_kart_game_sfml) - A group project developed using **C++** and **SFML**, applying object-oriented programming principles and extended with **JavaScript** and **Firebase** for additional functionality.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=sARGm4s1JAM">
