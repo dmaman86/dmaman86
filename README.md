@@ -63,7 +63,7 @@ const david = {
 - [Shiftly](https://github.com/dmaman86/shiftly) - A modern and intuitive work-hour tracking system built with React, TypeScript, and MUI.  
   It calculates salaries according to Israeli labor laws, handling complex wage structures including overtime, night shifts, holidays, and special bonuses.
 
-  ![breakdown summary 1](/../../../../dmaman86/shiftly/blob/main/public/breakdown-summary-1.png) | ![breakdown summary 2](/../../../../dmaman86/shiftly/blob/main/public/breakdown-summary-2.png)
+  ![breakdown summary 1](/../../../../dmaman86/shiftly/blob/main/.github/assets/breakdown-summary-1.png) | ![breakdown summary 2](/../../../../dmaman86/shiftly/blob/main/.github/assets/breakdown-summary-2.png)
    :---: | :---:
 
 ---
