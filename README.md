@@ -68,14 +68,23 @@ const david = {
 
 ---
 
-- [Author-Handwriting-Recog](https://github.com/dmaman86/author-handwriting-recog) - A deep learning project focused on offline writer identification using handwriting samples.  
-  Built with Python, TensorFlow, and Keras, it includes a custom DataGenerator, Siamese/embedding models, and image preprocessing pipelines for training and evaluation.
+- [Author-Handwriting-Recog](https://github.com/dmaman86/author-handwriting-recog) - A deep learning project for **offline writer identification** using metric learning and embedding-based approaches.
 
-    | **Evaluation Method** | **Seen Writers – Accuracy** | **Unseen Writers – Accuracy** |
-    |------------------------------------|--------------------------------------|--------------------------------------|
-    | Patch-Level (Euclidean to centroids) | 49.42% | 24.22% |
-    | Majority Vote (by image) | 90.20% | 59.61% |
-    | Softmax Sum (aggregated centroid scores) | **91.18%** | **67.00%** |
+    Built with **Python, TensorFlow, and Keras**, this project evolved from traditional classification methods to a more scalable and robust **embedding-based pipeline using MobileNetV2/EfficientNetV2 + Triplet Loss**.
+
+    ### Seen Writers Evaluation - MobileNetV2
+
+    | Strategy   | Aggregation | Accuracy (204 writers) | Accuracy (203 writers) |
+    |------------|------------|------------------------|------------------------|
+    | 1-NN       | vote       | **100.00%**            | **100.00%**            |
+    | Top-K      | vote       | 99.51%                 | 99.01%                 |
+    | Centroid   | vote       | 91.67%                 | 83.74%                 |
+    | Mean       | vote       | 57.84%                 | 52.22%                 |
+    
+    Measured using cosine distance:
+    
+    - **Intra-author distance:** ~0.35  
+    - **Inter-author distance:** ~0.95  
 
 ---
 
