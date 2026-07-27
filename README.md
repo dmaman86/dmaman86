@@ -20,7 +20,8 @@ const david = {
         },
         databases: {
             relational: ["MySQL", "PostgreSQL"],
-            noSQL: ["MongoDB"]
+            noSQL: ["MongoDB"],
+            cache: ["Redis"],
         },
         messaging: ["Kafka"],
         machineLearning: {
@@ -44,8 +45,8 @@ const david = {
                     "Single page applications"],
     softSkills: ["Problem-solving", "Teamwork", "Quick learning", "Adaptability"],
     contact: {
-        email: "dmaman86@gmail.com",
-        linkedIn: "linkedin.com/in/david-alejandro-maman-994976121"
+        email: ["dmaman86@gmail.com", "david.alejandro.maman@gmail.com"],
+        linkedIn: "linkedin.com/in/david-alejandro-maman"
     }
 };
 ```
